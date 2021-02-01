@@ -3,3 +3,4 @@
 A new Flutter project.
 
 
+# flutter_tflite_arrayClassification
