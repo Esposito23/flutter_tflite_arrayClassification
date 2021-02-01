@@ -1,0 +1,4 @@
+#Mon Feb 01 12:37:56 CET 2021
+base.0=/home/esposito/Desktop/flutter_tensorflow/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
